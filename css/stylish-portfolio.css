@@ -276,5 +276,10 @@ footer {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  font-family: "Homer Simpson",cursive;
   text-align: center;
+}
+
+#productos{
+  border-radius:20px;
 }

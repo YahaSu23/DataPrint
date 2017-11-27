@@ -1,5 +1,4 @@
 body{
-	background: url('../img/baner-inicio.jpg') no-repeat fixed;
     background-size: cover;
     min-height: 650px;
     position: relative;
@@ -13,8 +12,12 @@ body{
 
 .login-page {
   width: 500px;
-  padding: 15% 0 0;
+  padding: 5% 0 0;
   margin: auto;
+}
+
+#fondo{
+  background-color: skyblue;
 }
 
 .form input {
